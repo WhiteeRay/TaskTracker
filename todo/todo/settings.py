@@ -1,6 +1,6 @@
 
 from pathlib import Path
-import os
+
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -91,7 +91,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'Asia/Astana'
+TIME_ZONE = 'Asia/Almaty'
 
 USE_I18N = True
 
